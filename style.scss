@@ -21,7 +21,7 @@ body {
         height: 950px;
 	background: linear-gradient(to bottom, #99ffcc 0%, #0000cc 100%);
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $black;
 }
 
 .container {
@@ -29,6 +29,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+background: rgba(0, 204, 255, 0.4);
 }
 
 h1, h2, h3, h4, h5, h6 {
