@@ -1,15 +1,15 @@
 ---
-title: Fuze Boxes Lesson 7
+title: Fuze Boxes Lesson 8
 layout: post
 author: maxholt72
-permalink: /Fuze Boxes Lesson 7/
-source-id: 1mN3Wn9oiVFEC8CQlgS_V1gBumKqSKmp2J7q13YTMNKQ
+permalink: /Fuze Boxes Lesson 8/
+source-id: 1hMdc3sNy17IghY0LbzkO1mX8bQMwy-YLdqi-hQEoaCo
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze Boxes Lesson 7</td>
+    <td>Fuze Boxes Lesson 8</td>
     <td>Date</td>
     <td>24/01/18</td>
   </tr>
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Continuing with coding lights.</td>
+    <td>Continuing to making the lights work.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Making light move through the bulbs.</td>
+    <td>Make the lights light up in an order.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -39,30 +39,30 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td>I persevered when things got hard.</td>
+    <td>I persevered when things went wrong.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>I asked how to make my work better.</td>
+    <td>I asked how to fix my work</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I worked well with my teammate to meet our goal.</td>
+    <td>I worked well to get far.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>I could have worked more effectively.</td>
+    <td>I could have worked quicker getting more work done.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>I could have been more efficient and quick with my work.</td>
+    <td>I was quite engaged completing most the tasks.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td>I could have focused more on my work so I could have been able do more work.</td>
+    <td>I could have used the worksheet to help me complete my task faster.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>I need to work quicker and more effectively meaning I will get more done.</td>
+    <td>I need to learn to use my resources at hand to help me work better.</td>
     <td></td>
   </tr>
 </table>
