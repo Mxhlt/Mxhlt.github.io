@@ -1,5 +1,5 @@
 ---
-title: Fuze box 2
+title: 2
 layout: post
 author: maxholt72
 permalink: /fuze box 2/
