@@ -1,5 +1,5 @@
 ---
-title: Fuze Boxes Lesson 4
+title: Fuze box less 4
 layout: post
 author: maxholt72
 permalink: /Fuze Boxes Lesson 4/
