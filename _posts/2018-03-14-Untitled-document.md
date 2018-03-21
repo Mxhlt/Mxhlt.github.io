@@ -1,15 +1,15 @@
 ---
-title: Fuze Boxes Lesson 8
+title: Fuze boxes lesson 6
 layout: post
 author: maxholt72
-permalink: /Fuze Boxes Lesson 8/
-source-id: 1hMdc3sNy17IghY0LbzkO1mX8bQMwy-YLdqi-hQEoaCo
+permalink: /Fuze Boxes Lesson 6/
+source-id: 1FUXdxqNRVnfogHXoyDy8VLm-Gpt3aenwjfmiQILM9Ew
 published: true
 ---
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze Boxes Lesson 8</td>
+    <td>Fuze Boxes Lesson 6</td>
     <td>Date</td>
     <td>24/01/18</td>
   </tr>
@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Continuing to making the lights work.</td>
+    <td>Starting to make the lights work.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
