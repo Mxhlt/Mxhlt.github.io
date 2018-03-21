@@ -2,7 +2,7 @@
 title: Fuze boxes lesson 3
 layout: post
 author: maxholt72
-permalink: /fuze boxes lesson 3/
+permalink: /Fuze boxes 3/
 source-id: 1yZ9z39qYd9i-uN_tRzhxg6ScAVTygXKdzlomAbPUb6w
 published: true
 ---
